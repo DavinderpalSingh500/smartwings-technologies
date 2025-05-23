@@ -1,4 +1,3 @@
-# smartwings-technologies
 <!DOCTYPE html>
 <html lang="en">
 <head>
